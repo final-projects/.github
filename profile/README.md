@@ -51,7 +51,9 @@
         <img src="https://img.shields.io/nexus/r/org.ifinalframework/final-framework?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/nexus/s/org.ifinalframework/final-framework?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/github/stars/final-projects/final-framework"/>
-        <img src="https://codecov.io/gh/final-projects/final-framework/branch/main/graph/badge.svg"/>
+        <a href="https://app.codecov.io/gh/final-projects/final-framework">
+          <img src="https://codecov.io/gh/final-projects/final-framework/branch/main/graph/badge.svg"/>
+        </a>
       </td>
     </tr>
     <!-- final-data -->
@@ -79,7 +81,9 @@
         <img src="https://img.shields.io/nexus/r/org.ifinalframework.boot/final-boot?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/nexus/s/org.ifinalframework.boot/final-boot?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/github/stars/final-projects/final-boot"/>
-        <img src="https://codecov.io/gh/final-projects/final-boot/branch/main/graph/badge.svg"/>
+        <a href="https://app.codecov.io/gh/final-projects/final-boot">
+          <img src="https://codecov.io/gh/final-projects/final-boot/branch/main/graph/badge.svg"/>
+        </a>
       </td>
     </tr>
   </tbody>
