@@ -58,6 +58,22 @@
         </a>
       </td>
     </tr>
+    <!-- final-security -->
+    <tr>
+      <td>
+        <a href="https://github.com/final-projects/final-security">final-security</a>
+      </td>
+      <td>
+        <img src="https://github.com/final-projects/final-security/workflows/ci/badge.svg"/>
+        <img src="https://img.shields.io/maven-central/v/org.ifinalframework.security/final-security?label=maven&color=success"/>
+        <img src="https://img.shields.io/nexus/r/org.ifinalframework.security/final-security?server=https://s01.oss.sonatype.org"/>
+        <img src="https://img.shields.io/nexus/s/org.ifinalframework.security/final-security?server=https://s01.oss.sonatype.org"/>
+        <img src="https://img.shields.io/github/stars/final-projects/final-security"/>
+        <a href="https://app.codecov.io/gh/final-projects/final-security"  target="_blank">
+          <img src="https://codecov.io/gh/final-projects/final-security/branch/main/graph/badge.svg"/>
+        </a>
+      </td>
+    </tr>
     <!-- final-data -->
     <tr>
       <td>
