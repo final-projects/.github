@@ -12,6 +12,20 @@
     </tr>
   </thead>
   <tbody>
+    <!-- final-dependencies -->
+    <tr>
+      <td>
+        <a href="https://github.com/final-projects/final-dependencies">final-dependencies</a>
+      </td>
+      <td>
+        <img src="https://github.com/final-projects/final-dependencies/workflows/ci/badge.svg"/>
+        <img src="https://img.shields.io/maven-central/v/org.ifinalframework.project/final-dependencies?label=maven&color=success"/>
+        <img src="https://img.shields.io/nexus/r/org.ifinalframework.project/final-dependencies?server=https://s01.oss.sonatype.org"/>
+        <img src="https://img.shields.io/nexus/s/org.ifinalframework.project/final-dependencies?server=https://s01.oss.sonatype.org"/>
+        <img src="https://img.shields.io/github/stars/final-projects/final-dependencies"/>
+        <img src="https://codecov.io/gh/final-projects/final-dependencies/branch/main/graph/badge.svg"/>
+      </td>
+    </tr>
 <!-- final-auto -->
     <tr>
       <td>
