@@ -61,7 +61,7 @@
         <img src="https://img.shields.io/nexus/r/org.ifinalframework.annotation/final-annotation?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/nexus/s/org.ifinalframework.annotation/final-annotation?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/github/stars/final-projects/final-annotation"/>
-        <a href="https://app.codecov.io/gh/final-projects/final-data"  target="_blank">
+        <a href="https://app.codecov.io/gh/final-projects/final-annotation"  target="_blank">
           <img src="https://codecov.io/gh/final-projects/final-annotation/branch/main/graph/badge.svg"/>
         </a>
       </td>
