@@ -18,7 +18,9 @@
         <a href="https://github.com/final-projects/final-dependencies">final-dependencies</a>
       </td>
       <td>
-        <img src="https://github.com/final-projects/final-dependencies/workflows/ci/badge.svg"/>
+        <a href="https://github.com/final-projects/final-dependencies/actions">
+          <img src="https://github.com/final-projects/final-dependencies/workflows/ci/badge.svg"/>
+        </a>
         <img src="https://img.shields.io/maven-central/v/org.ifinalframework.project/final-dependencies?label=maven&color=success"/>
         <img src="https://img.shields.io/nexus/r/org.ifinalframework.project/final-dependencies?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/nexus/s/org.ifinalframework.project/final-dependencies?server=https://s01.oss.sonatype.org"/>
